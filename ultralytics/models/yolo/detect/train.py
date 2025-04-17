@@ -57,7 +57,7 @@ class DetectionTrainer(BaseTrainer):
                 'host': 'localhost',
                 'port': 3306,
                 'user': 'root',
-                'password': '15819309416',
+                'password': 'your password',
                 'database': 'yolo_data',
                 'charset': 'utf8mb4'
             }
